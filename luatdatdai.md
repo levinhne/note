@@ -1,4 +1,5 @@
 ## Nghị định 43/2014/NĐ-CP
+QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT ĐẤT ĐAI
 ### Điều 88: Thủ tục hòa giải tranh chấp đất đai
 1. Khi nhận được đơn yêu cầu giải quyết tranh chấp đất đai, Ủy ban nhân dân cấp xã có trách nhiệm thực hiện các công việc sau:
 
@@ -33,6 +34,7 @@ Biên bản hòa giải phải có chữ ký của Chủ tịch Hội đồng, c
 Phòng Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cùng cấp quyết định công nhận việc thay đổi ranh giới thửa đất và cấp mới Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.
 
 ## Thông tư 25/2014/TT/BTNMT
+QUY ĐỊNH VỀ BẢN ĐỒ ĐỊA CHÍNH
 ### Điều 11: Xác định ranh giới thửa đất, lập bản mô tả ranh giới, mốc giới thửa đất
 1. Xác định ranh giới thửa đất
 
